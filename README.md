@@ -277,24 +277,6 @@ sql-data-warehouse-project/
 └── README.md
 ```
 
----
-
-## Screenshots
-
-### Data Warehouse Architecture
-
-![Data Warehouse Architecture](screenshots/architecture.png)
-
-### Gold Layer Data Model
-
-![Gold Layer Data Model](screenshots/data_model.png)
-
-### Business Analysis Output
-
-![Business Analysis Output](screenshots/analysis_output.png)
-
----
-
 ## Key Learnings
 
 Through this project, I gained practical experience in:
